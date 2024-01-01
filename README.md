@@ -13,6 +13,7 @@
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Web Templates ```
+- Template utilizado: ``` Google ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.google.com
 
